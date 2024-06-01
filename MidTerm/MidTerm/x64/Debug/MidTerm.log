@@ -1,0 +1,5 @@
+﻿  VigenereForwardIterator.cpp
+C:\MidTerm\MidTerm\VigenereForwardIterator.cpp(58,40): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+C:\MidTerm\MidTerm\VigenereForwardIterator.cpp(66,40): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+VigenereForwardIterator.obj : error LNK2005: "private: void __cdecl VigenereForwardIterator::initializeTable(void)" (?initializeTable@VigenereForwardIterator@@AEAAXXZ) already defined in main.obj
+C:\MidTerm\MidTerm\x64\Debug\MidTerm.exe : fatal error LNK1169: one or more multiply defined symbols found
